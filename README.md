@@ -24,6 +24,11 @@ This is a Node.js backend application that provides user authentication and mana
 - Hashing of passwords
 - JSON Web Token (JWT) authentication
 
+## Routes
+
+- [Documentation](https://documenter.getpostman.com/view/25338596/2s8ZDZzLjS)
+
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
